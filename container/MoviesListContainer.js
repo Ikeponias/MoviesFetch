@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import MoviesListComponent from '../component/MoviesListComponent'
 
-export default class MoviesList extends Component {
+export default class MoviesListContainer extends Component {
     constructor(props) {
         super(props);
         this.state = {data: null};
