@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FlatList, View } from 'react-native';
-import MovieComponent from './MovieComponent'
+import MovieComponent from './MovieComponent';
 
 export default class MoviesListComponent extends Component {
     constructor (props) {
