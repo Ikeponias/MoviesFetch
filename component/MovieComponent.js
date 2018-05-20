@@ -29,4 +29,4 @@ const styles = StyleSheet.create({
     itemText: {
         fontSize: 18,
     }
-})
+});
